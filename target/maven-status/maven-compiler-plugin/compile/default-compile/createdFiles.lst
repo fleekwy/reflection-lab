@@ -1,0 +1,9 @@
+ru\vsu\Injector.class
+ru\vsu\AutoInjectable.class
+ru\vsu\SomeBean.class
+ru\vsu\SomeInterface.class
+ru\vsu\SomeOtherInterface.class
+ru\vsu\Main.class
+ru\vsu\OtherImpl.class
+ru\vsu\SODoer.class
+ru\vsu\SomeImpl.class
